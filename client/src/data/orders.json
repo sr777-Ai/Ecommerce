@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "products": [
+      { "productId": 1, "quantity": 2, "price": 99.99 },
+      { "productId": 3, "quantity": 1, "price": 59.99 }
+    ],
+    "total": 259.97,
+    "status": "Delivered",
+    "date": "2025-04-15",
+    "shippingAddress": {
+      "name": "John Doe",
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345",
+      "country": "USA"
+    },
+    "paymentMethod": "Credit Card (ending in 4242)"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "products": [
+      { "productId": 2, "quantity": 1, "price": 149.99 },
+      { "productId": 7, "quantity": 1, "price": 34.99 }
+    ],
+    "total": 184.98,
+    "status": "Shipped",
+    "date": "2025-04-16",
+    "shippingAddress": {
+      "name": "Jane Smith",
+      "street": "789 Oak Dr",
+      "city": "Somewhere",
+      "state": "TX",
+      "zipCode": "54321",
+      "country": "USA"
+    },
+    "paymentMethod": "PayPal"
+  },
+  {
+    "id": 3,
+    "userId": 4,
+    "products": [
+      { "productId": 5, "quantity": 1, "price": 89.99 },
+      { "productId": 6, "quantity": 2, "price": 29.99 }
+    ],
+    "total": 149.97,
+    "status": "Processing",
+    "date": "2025-04-17",
+    "shippingAddress": {
+      "name": "Robert Johnson",
+      "street": "101 Pine Ln",
+      "city": "Elsewhere",
+      "state": "FL",
+      "zipCode": "33333",
+      "country": "USA"
+    },
+    "paymentMethod": "Credit Card (ending in 1234)"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "products": [
+      { "productId": 4, "quantity": 1, "price": 45.99 },
+      { "productId": 8, "quantity": 1, "price": 49.99 }
+    ],
+    "total": 95.98,
+    "status": "Delivered",
+    "date": "2025-04-12",
+    "shippingAddress": {
+      "name": "John Doe",
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345",
+      "country": "USA"
+    },
+    "paymentMethod": "Credit Card (ending in 4242)"
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "products": [
+      { "productId": 3, "quantity": 1, "price": 59.99 }
+    ],
+    "total": 59.99,
+    "status": "Canceled",
+    "date": "2025-04-10",
+    "shippingAddress": {
+      "name": "Jane Smith",
+      "street": "789 Oak Dr",
+      "city": "Somewhere",
+      "state": "TX",
+      "zipCode": "54321",
+      "country": "USA"
+    },
+    "paymentMethod": "PayPal"
+  }
+]

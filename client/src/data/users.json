@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "username": "user",
+    "password": "password",
+    "email": "user@example.com",
+    "role": "user",
+    "name": "John Doe",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zipCode": "12345",
+      "country": "USA"
+    },
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 2,
+    "username": "admin",
+    "password": "password",
+    "email": "admin@example.com",
+    "role": "admin",
+    "name": "Admin User",
+    "address": {
+      "street": "456 Admin Ave",
+      "city": "Adminville",
+      "state": "NY",
+      "zipCode": "67890",
+      "country": "USA"
+    },
+    "phone": "555-987-6543"
+  },
+  {
+    "id": 3,
+    "username": "jane",
+    "password": "password",
+    "email": "jane@example.com",
+    "role": "user",
+    "name": "Jane Smith",
+    "address": {
+      "street": "789 Oak Dr",
+      "city": "Somewhere",
+      "state": "TX",
+      "zipCode": "54321",
+      "country": "USA"
+    },
+    "phone": "555-555-5555"
+  },
+  {
+    "id": 4,
+    "username": "robert",
+    "password": "password",
+    "email": "robert@example.com",
+    "role": "user",
+    "name": "Robert Johnson",
+    "address": {
+      "street": "101 Pine Ln",
+      "city": "Elsewhere",
+      "state": "FL",
+      "zipCode": "33333",
+      "country": "USA"
+    },
+    "phone": "555-444-3333"
+  }
+]

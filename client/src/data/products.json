@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "description": "High-quality noise-canceling headphones with exceptional sound quality and comfort. Features Bluetooth 5.0 connectivity, 30-hour battery life, and premium materials for all-day wear.",
+    "price": 99.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 50,
+    "rating": 4.5,
+    "reviews": [
+      { "userId": 1, "comment": "Great sound quality!", "rating": 5 },
+      { "userId": 3, "comment": "Very comfortable, but battery could be better.", "rating": 4 },
+      { "userId": 2, "comment": "Excellent noise cancellation.", "rating": 5 }
+    ],
+    "features": [
+      "Active Noise Cancellation",
+      "30-hour battery life",
+      "Bluetooth 5.0 connectivity",
+      "Comfortable over-ear design"
+    ],
+    "colors": ["black", "white", "red"]
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "description": "Track your fitness goals and stay connected with this stylish smart watch. Features heart rate monitoring, sleep tracking, and smartphone notifications.",
+    "price": 149.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 35,
+    "rating": 4.0,
+    "reviews": [
+      { "userId": 1, "comment": "Good battery life, but the app could be better.", "rating": 4 },
+      { "userId": 4, "comment": "Accurate heart rate monitoring.", "rating": 4 }
+    ],
+    "features": [
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "Water resistant",
+      "Smartphone notifications"
+    ],
+    "colors": ["black", "silver", "blue"]
+  },
+  {
+    "id": 3,
+    "title": "Bluetooth Speaker",
+    "description": "Portable wireless speaker with deep bass and 20-hour battery life. Perfect for outdoor use with its water-resistant design.",
+    "price": 59.99,
+    "originalPrice": 79.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1551107696-a4b0c5a0d9a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 60,
+    "rating": 5.0,
+    "reviews": [
+      { "userId": 2, "comment": "Amazing sound for the size!", "rating": 5 },
+      { "userId": 3, "comment": "Battery lasts even longer than advertised.", "rating": 5 },
+      { "userId": 4, "comment": "Perfect for beach days.", "rating": 5 }
+    ],
+    "features": [
+      "20-hour battery life",
+      "Water resistant (IPX7)",
+      "Bluetooth 5.0",
+      "Deep bass technology"
+    ],
+    "colors": ["black", "blue", "red"]
+  },
+  {
+    "id": 4,
+    "title": "Laptop Bag",
+    "description": "Durable laptop bag with multiple compartments and water-resistant material. Fits laptops up to 15.6 inches.",
+    "price": 45.99,
+    "category": "Clothing",
+    "image": "https://images.unsplash.com/photo-1492707892479-7bc8d5a4ee93?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 75,
+    "rating": 3.5,
+    "reviews": [
+      { "userId": 1, "comment": "Good quality for the price.", "rating": 4 },
+      { "userId": 3, "comment": "Could use more padding for the laptop.", "rating": 3 }
+    ],
+    "features": [
+      "Fits laptops up to 15.6 inches",
+      "Multiple compartments",
+      "Water-resistant material",
+      "Adjustable shoulder strap"
+    ],
+    "colors": ["black", "gray", "navy"]
+  },
+  {
+    "id": 5,
+    "title": "Coffee Maker",
+    "description": "Programmable coffee maker with 12-cup capacity and auto shut-off feature. Make your perfect cup of coffee every morning.",
+    "price": 89.99,
+    "category": "Home & Kitchen",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 30,
+    "rating": 4.2,
+    "reviews": [
+      { "userId": 2, "comment": "Makes great coffee and easy to clean.", "rating": 4 },
+      { "userId": 4, "comment": "Love the programmable feature!", "rating": 5 }
+    ],
+    "features": [
+      "12-cup capacity",
+      "Programmable timer",
+      "Auto shut-off",
+      "Brew strength selector"
+    ],
+    "colors": ["black", "silver", "white"]
+  },
+  {
+    "id": 6,
+    "title": "Yoga Mat",
+    "description": "Non-slip yoga mat with extra cushioning for comfort. Perfect for yoga, pilates, and other floor exercises.",
+    "price": 29.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 100,
+    "rating": 4.7,
+    "reviews": [
+      { "userId": 1, "comment": "Very comfortable and non-slip.", "rating": 5 },
+      { "userId": 3, "comment": "Good thickness and durability.", "rating": 4 }
+    ],
+    "features": [
+      "Extra cushioning (6mm thick)",
+      "Non-slip surface",
+      "Eco-friendly material",
+      "Includes carrying strap"
+    ],
+    "colors": ["purple", "blue", "black", "green"]
+  },
+  {
+    "id": 7,
+    "title": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness and color temperature. USB charging port included.",
+    "price": 34.99,
+    "category": "Home & Kitchen",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 45,
+    "rating": 4.6,
+    "reviews": [
+      { "userId": 2, "comment": "Great lamp! Love the different light settings.", "rating": 5 },
+      { "userId": 4, "comment": "USB port is very convenient.", "rating": 4 }
+    ],
+    "features": [
+      "Adjustable brightness (5 levels)",
+      "Color temperature control",
+      "USB charging port",
+      "Touch controls"
+    ],
+    "colors": ["black", "white", "silver"]
+  },
+  {
+    "id": 8,
+    "title": "Portable Charger",
+    "description": "High-capacity 20000mAh power bank with fast charging capabilities. Charge multiple devices simultaneously.",
+    "price": 49.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?ixlib=rb-1.2.1&auto=format&fit=crop&w=300&h=300&q=80",
+    "stock": 85,
+    "rating": 4.8,
+    "reviews": [
+      { "userId": 1, "comment": "Charges my phone multiple times. Great for travel!", "rating": 5 },
+      { "userId": 3, "comment": "Fast charging and reliable.", "rating": 5 }
+    ],
+    "features": [
+      "20000mAh capacity",
+      "Fast charging (18W)",
+      "Multiple ports (USB-C, USB-A)",
+      "LED power indicator"
+    ],
+    "colors": ["black", "white"]
+  }
+]

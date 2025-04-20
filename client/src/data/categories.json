@@ -1,0 +1,9 @@
+[
+  { "id": 1, "name": "Electronics", "icon": "laptop" },
+  { "id": 2, "name": "Clothing", "icon": "tshirt" },
+  { "id": 3, "name": "Home & Kitchen", "icon": "home" },
+  { "id": 4, "name": "Books", "icon": "book" },
+  { "id": 5, "name": "Beauty", "icon": "magic" },
+  { "id": 6, "name": "Sports", "icon": "running" },
+  { "id": 7, "name": "Toys", "icon": "gamepad" }
+]
